@@ -1,6 +1,6 @@
 
 
-A simple REST API built using **Node.js** and **Express.js** for managing event bookings for **Synergia**, a technical event.
+A simple REST API built using Node.js and Express.js for managing event bookings for Synergia, a technical event.
 
 
 - View all bookings
